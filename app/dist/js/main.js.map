@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["app","document","querySelector","console","log"],"mappings":";;AAAA,IAAMA,GAAG,GAAGC,QAAQ,CAACC,aAAT,CAAuB,MAAvB,CAAZ;AAEAC,OAAO,CAACC,GAAR,gCAAoCJ,GAApC","file":"main.js","sourcesContent":["const app = document.querySelector('#app');\n\nconsole.log(`This is a parent div ${app}`);"]}
